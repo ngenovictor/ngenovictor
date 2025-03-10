@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋, I'm Victor
+
+- 🌴 Based in Nairobi, Kenya.
+- 🔭 I’m currently exploring and bootstrapping new ideas.
+- 👯 I’m looking to collaborate and work with startups that look to solve day to day societal issues.
 
 <!--
 **ngenovictor/ngenovictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
