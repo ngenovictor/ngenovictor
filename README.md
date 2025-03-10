@@ -1,6 +1,7 @@
 ## Hi there 👋, I'm Victor
 
 - 🌴 Based in Nairobi, Kenya.
+- 👩🏼‍💻 I have 6+ years of Software Engineering experience with a focus on backend technologies.
 - 🔭 I’m currently exploring and bootstrapping new ideas.
 - 👯 I’m looking to collaborate and work with startups that look to solve day to day societal issues.
 
